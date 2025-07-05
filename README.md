@@ -44,6 +44,6 @@ A sophisticated Retrieval-Augmented Generation (RAG) chatbot that combines multi
 3. conda activate main 
 4. In this path use pip install -r requirements.txt 
 
-###The link for this
+### The link for this
 
 https://1drv.ms/p/c/f7bda1b77da69650/EW7cDtokgtJAnbARA960sBUBYvuzWE3zG8pEu54qP_8r7w?e=xbPRTo
