@@ -1,6 +1,6 @@
 # rag_mcp
 A sophisticated Retrieval-Augmented Generation (RAG) chatbot that combines multi-agent architecture with Chain of Thought (CoT) reasoning for transparent, step-by-step problem-solving.
-
+🎥 [Watch Demo on Google Drive](https://drive.google.com/file/d/1JBeXrC20FUMBaOKdAwsCFIIaIj9lHfZn/view?usp=drive_link)
 ## 🌟 Features
 
 ### Chain of Thought Reasoning
