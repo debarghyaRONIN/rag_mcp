@@ -1,6 +1,6 @@
 # rag_mcp
 A sophisticated Retrieval-Augmented Generation (RAG) chatbot that combines multi-agent architecture with Chain of Thought (CoT) reasoning for transparent, step-by-step problem-solving.
-🎥 [Watch Demo on Google Drive](https://drive.google.com/file/d/1JBeXrC20FUMBaOKdAwsCFIIaIj9lHfZn/view?usp=drive_link)
+🎥 [Watch Demo on Google Drive](https://drive.google.com/file/d/1ie-ekGYXQv_4s2g8yENfTEmAYkZa-9yf/view?usp=sharing)
 ## 🌟 Features
 
 ### Chain of Thought Reasoning
@@ -43,4 +43,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) chatbot that combines multi
 2. conda create -n main python=3.11
 3. conda activate main 
 4. In this path use pip install -r requirements.txt 
- 
+
+###The link for this
+
+https://1drv.ms/p/c/f7bda1b77da69650/EW7cDtokgtJAnbARA960sBUBYvuzWE3zG8pEu54qP_8r7w?e=xbPRTo
