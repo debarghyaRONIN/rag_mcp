@@ -42,7 +42,8 @@ A sophisticated Retrieval-Augmented Generation (RAG) chatbot that combines multi
 1. To manage environments I recommend using miniconda https://www.anaconda.com/docs/getting-started/miniconda?install#windows-installation 
 2. conda create -n main python=3.11
 3. conda activate main 
-4. In this path use pip install -r requirements.txt 
+4. In this path use pip install -r requirements.txt
+5. you need to use ollama for this specific setup, download it and run "ollama run llama:3.2 3b" or any name of the model for this project to run that specific model and also change the name written as llama:3.2 3b in code
 
 ### Architecture PPT
 
